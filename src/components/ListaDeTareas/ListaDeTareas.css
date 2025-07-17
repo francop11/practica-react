@@ -1,0 +1,45 @@
+.tareas {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: cursive;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+.input{
+    width: 96%;
+    padding: 10px;
+    font-size: 16px;
+    border:  1px solid sandybrown;
+    font-family: cursive;
+}
+
+
+.botonAgregar{
+  border-radius: 6px;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  transition: opacity 0.3s ease;
+   margin-bottom: 15px;
+}
+
+.botonAgregar:hover{
+    opacity: 0.8;
+}
+.input:focus,
+.botonAgregar:focus {
+  outline: 2px solid #6ca0dc;
+  outline-offset: 2px;
+}

@@ -1,0 +1,28 @@
+.ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+
+}
+
+.tarea{
+    background-color: bisque;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.botonEliminar{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.botonEliminar:hover{
+    opacity: 0.8;
+}
