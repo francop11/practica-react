@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "descripcion": "Revisar correos electrónicos atrasados."
+  },
+  {
+    "id": 1,
+    "descripcion": "Sacar la basura y limpiar la cocina."
+  },
+  {
+    "id": 2,
+    "descripcion": "Hacer una copia de seguridad de los documentos importantes."
+  },
+  {
+    "id": 3,
+    "descripcion": "Planificar la agenda de la próxima semana."
+  },
+  {
+    "id": 4,
+    "descripcion": "Llamar al proveedor de internet para resolver una incidencia."
+  },
+  {
+    "id": 5,
+    "descripcion": "Actualizar la contraseña del correo corporativo."
+  }
+]
